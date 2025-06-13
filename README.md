@@ -9,3 +9,5 @@ i'll add support in the future to enable/disable certain weapons or armors
 
 best paired with Fariel's ULTIMATE BRAVERY. 
 https://fariel.itch.io/helldivers-ultimate-bravery
+
+(if you're wondering why i suddenly switched from spaces to no spaces, i got lazy. didn't wanna put spaces. also with the sudden quotes change, idk y but i found using " instead of ' easier)
