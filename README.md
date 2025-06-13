@@ -5,9 +5,16 @@ Tired of running the same loadouts? Look no further than this loadout generator.
 - a throwable
 - armour type
 - armour passive
-i'll add support in the future to enable/disable certain weapons or armors
+
+In the .zip file, there will be a file named "selections.csv" with all weapons/armours in the game at the moment. If there is something you don't want in the randomizer, remove the X from the row. If you want to add something back to the randomizer, put an "X" (not an "x") where the two commas are. I will provide an example of what a selected/deselected weapon would look like. 
+
+SELECTED:
+Primary,AR,AR-23 Liberator,X,
+
+DESELECTED:
+Primary,AR,AR-23 Liberator,,
 
 best paired with Fariel's ULTIMATE BRAVERY. 
 https://fariel.itch.io/helldivers-ultimate-bravery
 
-(if you're wondering why i suddenly switched from spaces to no spaces, i got lazy. didn't wanna put spaces. also with the sudden quotes change, idk y but i found using " instead of ' easier)
+
